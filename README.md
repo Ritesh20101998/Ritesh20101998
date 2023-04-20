@@ -3,7 +3,7 @@
     alt="Git" />
      
 <h1 align="center">Hi 👋, I'm Ritesh Kothawade</h1>
-<h3 align="center">An enthusiastic Full Stack Developer, a lifelong learner, skilled in Full Stack Web Development. Aims to leverage knowledge and build premium websites
+<h3 align="center">An enthusiastic Full Stack Developer, a lifelong learner, skilled in Backend Development. Aims to leverage knowledge and build premium websites
 </h3>
 
 <p align="center" color:"red">
