@@ -57,8 +57,12 @@
 <hr>
 
 # 💫 About Me:
-🔭 I’m currently working on **Meesho E-commerce website**<br><br>🌱 I’m currently learning **Node.js | MongoDB | SQL**<br><br>💬 Ask me about **HTML | CSS | JavaScript**<br><br>👨‍💻 All of my projects are available at **[Portfolio](https://Ritesh20101998.github.io/)**<br><br>📫 How to reach me **kothawaderitesh2010@gmail.com**
-
+🔭 I’m currently working on **Meesho E-commerce website**<br><br>
+🌱 I’m currently learning **Node.js | MongoDB | SQL**<br><br>
+💬 Ask me about **HTML | CSS | JavaScript**<br><br>
+👨‍💻 All of my projects are available at **[Portfolio](https://Ritesh20101998.github.io/)**<br><br>
+📫 How to reach me **kothawaderitesh2010@gmail.com**<br><br>
+📁 Check my **[Resume](https://drive.google.com/file/d/1QwtwUEcaIpY69yenSCvO_EMVYsCE6DV-/view?usp=share_link)** 
 <hr>
 
 ## 🌐 Connect With Me:
