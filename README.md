@@ -6,6 +6,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kothawade</h1>
 <h3 align="center">An enthusiastic Full Stack Developer, a lifelong learner, skilled in Backend Development. Aims to leverage knowledge and build premium websites. I'm a Full Stack Developer with experience in HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB.
 </h3>
+
 <br>
 <p align="center" color:"red">
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
