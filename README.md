@@ -1,7 +1,8 @@
  <img align="left" padding="40px" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" width="40%" height="320px"/>
  <img align="right" padding="40px" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="40%" height="320px" alt="Git" />
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
      
 <h1 align="center">Hi 👋, I'm Ritesh Kothawade</h1>
 <h3 align="center">An enthusiastic Full Stack Developer, a lifelong learner, skilled in Backend Development. Aims to leverage knowledge and build premium websites. I'm a Full Stack Developer with experience in HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB.
