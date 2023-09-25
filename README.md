@@ -43,8 +43,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ritesh20101998&theme=radical&no-frame=false&no-bg=false&margin-w=4&reviews=false)
-
+ ![](https://github-trophies.vercel.app/?username=Ritesh20101998)
+ 
 # 📊 GitHub Stats:
 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh20101998&theme=dark&hide_border=false&align=center)<br/>
