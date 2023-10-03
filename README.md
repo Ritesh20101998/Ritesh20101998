@@ -32,8 +32,7 @@
 🔭 I’m currently working on Generative AI | Prompt Engineering<br>🌱 I’m currently learning **Python | Django | Angular**<br>💬 Ask me about **HTML | CSS | JavaScript | Node.js | React.js | MySQL | MongoDB | Redis**<br>👨‍💻 All of my projects are available at **[Portfolio](https://Ritesh20101998.github.io/)**<br>📫 How to reach me **kothawaderitesh2010@gmail.com**<br>📄 Know more about myself **[Resume](https://drive.google.com/file/d/1aB0sJXQom6RrLbDu7iAs1ljX-JkDS5iQ/view?usp=sharing)** 📄<br> ⚡ Learner Adaptable Programmer
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/riteshkothawade2010/) 
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-kothawade-800879270/) 
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/RITESH-KOTHAWADE-7) 
 
